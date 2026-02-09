@@ -8,6 +8,6 @@ AMEDのがん全ゲノム解析を担当する多くの臨床医はデータハ�
 
 ### ソフトウェア開発にあたり、ぜひアンケートにご協力ください。
 利活用されないデータに価値が乏しいように、使用されないソフトウェアにも価値があまりありません。皆様のこれまでの研究経験・臨床経験・文献的知識から、こんな解析があるとより使いやすくなる、といったアドバイスをいただけましたら、積極的に解析機能を搭載していきたいと思います。    
-[こちらのGoogle form](https://docs.google.com/forms/d/1z7c-32BAZIAYQTxRs9VkHIjNi6b0o-AXBcP7ArJ5gzg/edit)から是非ご回答をお願いいたします。  
+[こちらのGoogle form](https://docs.google.com/forms/d/e/1FAIpQLSdbpc9eiVhjifs9TcRiyBNOd_0t3QLGDE323Y-06HwkyB_cdA/viewform)から是非ご回答をお願いいたします。  
 以下のQRコードからスマホでも回答可能です。  
-<img width="138" height="136" alt="image" src="https://github.com/user-attachments/assets/60c38688-c935-41cb-a5eb-be13a63b6c0b" />
+<img width="108" height="108" alt="QR_647072" src="https://github.com/user-attachments/assets/c76afea1-8099-4adb-8f19-45f3418b028e" />
