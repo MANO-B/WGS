@@ -1,4 +1,4 @@
-<img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/8859300b-31c0-4eaa-867a-7f2a2da0f122" /># 本日のスライド
+# 本日のスライド
 [こちら](https://felis-portal.com/slide/AMED_BSTS.pptx)
 
 # WGSデータ可視化ソフトウェア開発
