@@ -1,3 +1,6 @@
+<img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/8859300b-31c0-4eaa-867a-7f2a2da0f122" /># 本日のスライド
+[こちら](https://felis-portal.com/slide/AMED_BSTS.pptx)
+
 # WGSデータ可視化ソフトウェア開発
 AMEDのがん全ゲノム解析を担当する多くの臨床医はデータハンドリングに難渋しています。多大な労力・時間・費用をかけて取得した10000症例のビッグデータの利活用を進めるため、[AMEDゲノム創薬基盤の事業](https://www.amed.go.jp/koubo/14/01/1401C_00048.html)としてWebアプリによるノーコードでの解析環境を整備することにしました。[Qwen3-Code-Next](https://github.com/QwenLM/Qwen3-Coder)による自然言語処理によるオーダーメイド解析機能も搭載しています。「肺がんのTP53変異陽性患者は陰性患者と比較して生存期間は短いのか、カプランマイアーでの生存曲線とコックス比例ハザードモデルでのハザード比の算出を信頼区間を含めて計算して」という指示に従って要望する図がリアルタイムに出力される機能です。
 
@@ -10,4 +13,4 @@ AMEDのがん全ゲノム解析を担当する多くの臨床医はデータハ�
 利活用されないデータに価値が乏しいように、使用されないソフトウェアにも価値があまりありません。皆様のこれまでの研究経験・臨床経験・文献的知識から、こんな解析があるとより使いやすくなる、といったアドバイスをいただけましたら、積極的に解析機能を搭載していきたいと思います。    
 [こちらのGoogle form](https://docs.google.com/forms/d/e/1FAIpQLSdbpc9eiVhjifs9TcRiyBNOd_0t3QLGDE323Y-06HwkyB_cdA/viewform)から是非ご回答をお願いいたします。  
 以下のQRコードからスマホでも回答可能です。  
-<img width="108" height="108" alt="QR_647072" src="https://github.com/user-attachments/assets/c76afea1-8099-4adb-8f19-45f3418b028e" />
+<img width="108" height="108" alt="QR_494681" src="https://github.com/user-attachments/assets/413ffcd0-2a5f-4d8e-b782-196e8dafcfa2" />
